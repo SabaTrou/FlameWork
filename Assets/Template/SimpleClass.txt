@@ -1,0 +1,7 @@
+using System;
+
+public class #SCRIPTNAME#
+{
+    #region　変数
+    #endregion
+}
